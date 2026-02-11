@@ -1,0 +1,14 @@
+## Interface: 20505
+
+## Title: SellCrap2
+## Notes: |ccFFc8000Automatically sells Junk/Crap at the trader.
+## Author: derFlanders
+## Version: 1.5
+## IconTexture: Interface\AddOns\SellCrap2\img\sellcrap2.tga
+## DefaultState: enabled
+## X-Curse-Project-ID: 1455619
+## SavedVariablesPerCharacter: SELLCRAP2VARS
+
+optionsSC2.lua
+mainSC2.lua
+bagCrapValueSC2.lua
