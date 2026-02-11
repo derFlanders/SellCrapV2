@@ -12,6 +12,10 @@
 * 📦 **Crap Value Fenster:** Ein elegantes, frei bewegliches Fenster, das dir zeigt, wie viel Gold aktuell als "Schrott" in deinen Taschen liegt.
 * 🎨 **Item-Highlighting:** Dunkelt graue Items in deinen Taschen ab, damit du wertvolle Gegenstände schneller erkennst.
 * 📏 **Individuelles Interface:** Das Wert-Fenster ist per Drag-and-Drop verschiebbar und in der Größe präzise anpassbar.
+* 
+<img src="https://media.forgecdn.net/attachments/description/null/description_a7bc9e23-583a-45b2-bc44-2bd9ea0366a9.png" alt="sellcrap2" width="381" height="168"><br><br>Functions can be switched on and off in the settings.</h3>
+<p>&nbsp;</p>
+<p><img src="https://media.forgecdn.net/attachments/description/1455619/description_2d8d09c7-d934-4886-8f8f-5603aa95ba69.png" alt="sellcrap2" width="505" height="276"></p>
 
 ## Bedienung
 
